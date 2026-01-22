@@ -8,7 +8,7 @@ This template equips you with a foundational React application integrated with A
 
 ## Features
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
+- **Authentication**: Setup with Amazon Cognito for secure user authentication. Use pre-auth function for Cognito
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
 - **Build Notification**: Add SNS to send notification to Slack, and SNS to Lambda to Slack
